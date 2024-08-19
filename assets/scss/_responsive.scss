@@ -1,0 +1,1029 @@
+@media (max-width:1400px) {
+    .product-content h1 {
+        font-size: 45px;
+    }
+
+    .product-content h6 {
+        font-size: 20px;
+    }
+
+    .check-list li {
+        font-size: 23px;
+    }
+
+    .check-list li::before {
+        width: 42px;
+        height: 42px;
+        background-size: contain;
+    }
+
+    .inewproduct-heading h3 {
+        font-size: 55px;
+    }
+
+    .inewproduct-heading h4 {
+        font-size: 45px;
+    }
+
+
+
+    .sOffers .sOffers-plans .sOffer-content .sOffer-price h5 {
+        font-size: 62px;
+    }
+
+    .treview-content {
+        padding-right: 110px;
+    }
+}
+
+@media (max-width:1200px) {
+
+    .product-content h1 {
+        font-size: 30px;
+    }
+
+    .product-content h6 {
+        font-size: 20px;
+    }
+
+    .check-list li {
+        font-size: 21px;
+    }
+
+    .check-list li::before {
+        width: 36px;
+        height: 36px;
+        background-size: contain;
+    }
+
+    .rh-view {
+        font-size: 24px;
+    }
+
+    .offer-btn {
+        font-size: 34px;
+    }
+
+    .product-thumbnail {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 20px;
+    }
+
+    .treview-content {
+        padding-right: 170px;
+        padding-left: 50px;
+    }
+
+    .wif-heading h2 {
+        font-size: 50px;
+    }
+
+    .wif-title h3 {
+        font-size: 40px;
+    }
+
+    .wif-text p {
+        font-size: 21px;
+    }
+
+    .inewproduct-heading h3 {
+        font-size: 42px;
+
+    }
+
+    .inewproduct-heading h4 {
+        font-size: 35px;
+    }
+
+    .inewproduct-heading p {
+        font-size: 24px;
+    }
+
+    .inewproduct-content p {
+        font-size: 24px;
+    }
+
+
+    .ingredients-text {
+        max-width: 57%;
+    }
+
+    .ingredients-text p {
+        font-size: 28px;
+    }
+
+    .ingredients-box {
+        min-height: initial;
+    }
+
+    .ap-report-heading h3 {
+        font-size: 48px;
+    }
+
+    .ap-report-box p {
+        font-size: 30px;
+    }
+
+    .ap-report-graphic {
+        width: 220px;
+        height: 220px;
+
+        object {
+            width: 150px;
+
+        }
+    }
+
+    .compare-heading h3 {
+        font-size: 42px;
+    }
+
+    .compare-heading h3 span {
+        font-size: 35px;
+    }
+
+    .compare-heading {
+        margin-bottom: 80px;
+    }
+
+    .sOffers-heading h3 {
+        font-size: 50px;
+    }
+
+    .sOffers-heading h3 span {
+        font-size: 35px;
+    }
+
+    .sOffers-update {
+        font-size: 26px;
+    }
+
+    .sOffers-plans .sOffer-title h4 {
+        font-size: 32px;
+    }
+
+    .sOffers-plans .sOffer-content .sOffer-plan h5 {
+        font-size: 32px;
+    }
+
+
+
+
+
+
+    .sOffers .sOffers-plans .sOffer-content .sOffer-price h5 {
+        font-size: 38px;
+    }
+
+    .sOffers-plans .sOffer-content .sOffer-price span {
+        font-size: 35px;
+    }
+
+    .sOffers-plans .sOffer-content .sOffer-price {
+        margin-bottom: 30px;
+        margin-top: 0;
+    }
+
+    .sOffers-checkout .sO-sfCheckout h5,
+    .sOffers-checkout .sO-sfCheckout p {
+        font-size: 35px;
+    }
+
+    .sOffers-plans .sOffer-content p {
+        font-size: 28px;
+    }
+
+
+    .bMoney-box h3 {
+
+        font-size: 48px;
+    }
+
+    .bMoney-box h5 {
+        font-size: 38px;
+    }
+
+    .bMoney-box p {
+        font-size: 32px;
+    }
+
+    .compTable-heading p {
+        font-size: 42px;
+    }
+
+    .compTable-note {
+        font-size: 27px;
+    }
+
+
+
+
+    .reviews h3 {
+        font-size: 48px;
+    }
+
+    .reviews-item p {
+        font-size: 22px;
+    }
+
+    .reviews-item .review-title h6 {
+        font-size: 24px;
+    }
+
+    .reviews-item .review-head .review-name h5 {
+        font-size: 24px;
+    }
+
+    .reviews-item .review-head .review-date {
+        font-size: 20px;
+    }
+
+
+
+
+    .faq h3 {
+        font-size: 48px;
+    }
+
+    .faq-item .faq-title h5 {
+        font-size: 32px;
+    }
+
+    .faq-item p {
+        font-size: 22px;
+    }
+
+    .faq-item .faq-title span {
+
+        width: 60px;
+        height: 60px;
+    }
+
+
+    footer .footer-content {
+        font-size: 16px;
+        line-height: 1.3;
+    }
+
+    footer a {
+
+        font-size: 16px;
+        line-height: 1.3;
+    }
+
+
+    .sOffer-content .offer-btn {
+        font-size: 28px;
+    }
+}
+
+
+@media (max-width: 991px) {
+    .ingredients-wrap {
+        flex-direction: column-reverse;
+    }
+
+    .ingredients-text {
+        max-width: 100%;
+    }
+
+    .ingredients-picture {
+        margin-top: 0;
+        width: 100%;
+
+        img {
+            width: 100%;
+            height: 500px;
+            object-fit: cover;
+        }
+    }
+
+    .treview {
+        display: flex;
+        flex-direction: column-reverse;
+        align-items: center;
+
+        &-face {
+            position: initial;
+            transform: none;
+        }
+
+        &-content {
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+    }
+
+    .ingredients-wrap {
+        flex-direction: column-reverse;
+    }
+
+
+    .wif-graphic img {
+        width: 100%;
+        margin-bottom: 14px;
+    }
+
+    .sOffer {
+        max-width: 434px;
+        margin-inline: auto;
+    }
+}
+
+@media (max-width:767px) {
+    .container {
+        padding-left: 24px;
+        padding-right: 24px;
+    }
+
+    .rh-view {
+        font-size: 15px;
+    }
+
+    .check-list li {
+        font-size: 16px;
+    }
+
+    .check-list li {
+        padding-left: 40px;
+    }
+
+    .product-content h1 {
+        font-size: 25px;
+    }
+
+    .product-content h6 {
+        font-size: 15px;
+    }
+
+    .product-content .check-list {
+        margin: 19px 0 19px;
+
+    }
+
+    .treview-content h4 {
+        font-size: 25px;
+        margin-bottom: 8px;
+    }
+
+    .treview-content p {
+        font-size: 15px;
+    }
+
+    .treview-content h5 {
+        font-size: 15px;
+    }
+
+    .treview {
+        padding: 13px 0;
+
+    }
+
+    .product-content .offer-btn {
+        font-size: 25px;
+    }
+
+    .wif-heading {
+        padding: 23px 21px;
+
+        h2 {
+            font-size: 32px;
+        }
+    }
+
+    .wif-title h3 {
+        font-size: 25px;
+    }
+
+    .wif-text p {
+        font-size: 15px;
+    }
+
+    .wif-title {
+        margin: 12px 0;
+    }
+
+    .inewproduct-heading h3 {
+        font-size: 35px;
+    }
+
+    .inewproduct-heading h4 {
+        font-size: 25px;
+    }
+
+    .inewproduct-heading p {
+        font-size: 14px;
+        margin-top: 0;
+    }
+
+    .inewproduct-rating svg {
+
+        width: 24px;
+        height: 24px;
+    }
+
+    .inewproduct-product {
+        max-width: 80%;
+    }
+
+    .inewproduct-content p {
+        font-size: 15px;
+    }
+
+
+    .ingredients-title h4 {
+        font-size: 35px;
+    }
+
+    .ingredients-title {
+        padding: 5px 12px;
+    }
+
+    .ingredients-wrap {
+        padding: 16px 32px;
+    }
+
+    .ingredients-text {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .ingredients-text p {
+        font-size: 15px;
+    }
+
+    .ingredients-text p mark {
+        font-size: 20px;
+    }
+
+
+
+    .ap-report-heading h3 {
+        font-size: 35px;
+    }
+
+    .ap-report-graphic {
+        width: 90px;
+        height: 90px;
+    }
+
+    .ap-report-graphic object {
+        width: 64px;
+    }
+
+    .ap-report-box p {
+        font-size: 15px;
+    }
+
+    .ap-report::after {
+        bottom: -42px;
+        background-size: contain;
+        height: 45px;
+    }
+
+    .compare-heading h3 {
+        font-size: 35px;
+    }
+
+    .compare-heading h3 span {
+        font-size: 25px;
+    }
+
+
+
+
+    .aseasy h3 {
+        font-size: 25px;
+    }
+
+    .aseasy-gif {
+        min-height: 150px;
+    }
+
+    .aseasy-box p {
+        font-size: 15px;
+    }
+
+    .aseasy {
+        padding-bottom: 32px;
+    }
+
+
+
+    .sOffers-heading h3 {
+        font-size: 35px;
+
+        span {
+            font-size: 25px;
+        }
+    }
+
+
+
+
+
+    .sOffers-update {
+        font-size: 15px;
+        padding: 15px 8px;
+    }
+
+
+
+
+    .sOffers-plans .sOffer-title h4 {
+        font-size: 30px;
+    }
+
+    .sOffers-plans .sOffer-content .sOffer-plan h5 {
+        font-size: 40px;
+    }
+
+    .sOffers .sOffers-plans .sOffer-content .sOffer-price h5 {
+        font-size: 70px;
+        padding-left: 0;
+    }
+
+    .sOffers-plans .sOffer-content .sOffer-price span {
+        font-size: 25px;
+    }
+
+    .sOffers-plans .sOffer-content p {
+        font-size: 35px;
+    }
+
+    .sOffer-content .offer-btn {
+        font-size: 40px;
+    }
+
+    .sOffers-checkout .sO-sfCheckout h5,
+    .sOffers-checkout .sO-sfCheckout p {
+        font-size: 20px;
+    }
+
+    .bMoney-box img {
+        max-width: 114px;
+    }
+
+    .bMoney {
+        padding-top: 40px;
+    }
+
+    .bMoney-box h3 {
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+
+    .bMoney-box h5 {
+        font-size: 15px;
+    }
+
+    .bMoney-box p {
+        font-size: 15px;
+    }
+
+    .bMoney-box {
+        padding-top: 78px;
+    }
+
+    .bMoney-box p+p {
+        margin-top: 20px;
+    }
+
+    .bMoney .container {
+        padding-left: 28px;
+        padding-right: 28px;
+    }
+
+
+
+    .compTable-heading p {
+        font-size: 35px;
+    }
+
+
+
+    .reviews h3 {
+        font-size: 35px;
+    }
+
+    .reviews-item .review-head {
+        margin-bottom: 0px;
+    }
+
+    .reviews-item {
+        padding: 10px 12px;
+    }
+
+    .reviews-item .review-head .review-name h5 {
+        font-size: 20px;
+    }
+
+    .reviews-item .review-title h6 {
+        font-size: 20px;
+    }
+
+    .reviews-item .review-head .review-name span {
+        font-size: 12px;
+    }
+
+    .reviews-item .review-head .review-date {
+        font-size: 12px;
+    }
+
+    .reviews-item .review-title {
+        gap: 5px;
+        margin-bottom: 10px;
+    }
+
+    .reviews-item {
+        margin-bottom: 25px;
+    }
+
+    .star-group {
+        img {
+            width: 18px;
+            height: 18px;
+        }
+    }
+
+
+
+
+    .faq h3 {
+        font-size: 35px;
+        margin-bottom: 40px;
+    }
+
+    .faq-item .faq-title h5 {
+        font-size: 20px;
+    }
+
+    .faq-item .faq-title span {
+        width: 37px;
+        height: 37px;
+
+        svg {
+            width: 10px;
+        }
+    }
+
+    .faq-item .faq-title {
+        margin-bottom: 8px;
+    }
+
+    .faq-item p {
+        font-size: 20px;
+    }
+
+    .faq-item {
+        margin-bottom: 25px;
+    }
+
+
+    footer .footer-content .footer-logo {
+        position: initial;
+
+        img {
+            margin: 16px auto;
+            width: 165px;
+        }
+    }
+
+    footer .footer-content p {
+        font-size: 15px;
+        margin: auto;
+        max-width: fit-content;
+    }
+
+    footer {
+        padding: 38px 0 27px;
+    }
+
+    .footer-links a {
+        font-size: 11px;
+    }
+
+    .sOffers-plans .sOffer {
+        margin-top: 43px;
+    }
+
+    .compTable-note span {
+        font-size: 20px;
+    }
+
+    .compTable-note {
+        font-size: 20px;
+    }
+
+    .ap-report-box {
+        margin-top: 25px;
+    }
+
+    .ap-report-graphic {
+        margin-bottom: 7px;
+    }
+
+    .compare {
+        padding: 69px 0 28px;
+    }
+
+    .compare-heading {
+        margin-bottom: 40px;
+    }
+
+    .compare .row {
+        row-gap: 40px;
+    }
+
+    .compare-rating {
+        svg {
+            width: 192.891px;
+            height: 38.96px;
+        }
+    }
+
+    .aseasy::before {
+        height: 28px;
+        background-size: contain;
+    }
+
+    .aseasy {
+        padding: 52px 0 32px;
+    }
+
+    .aseasy-gif span {
+        font-size: 15px;
+    }
+
+    .aseasy::after {
+        height: 45px;
+        background-size: contain;
+        bottom: -37px;
+    }
+
+    .sOffers {
+        padding: 62px 0 68px;
+    }
+
+    .sOffers-heading {
+        margin-bottom: 30px;
+    }
+
+    .reviews::before {
+        height: 45px;
+        background-size: contain;
+        top: -9px;
+    }
+
+    .reviews {
+        padding: 70px 0 45px;
+    }
+
+    .reviews h3 {
+        margin-bottom: 26px;
+    }
+
+    .reviews-item p {
+        font-size: 15px;
+    }
+
+    .star-group {
+        display: flex;
+    }
+
+    .reviews-item .review-head .review-name {
+        gap: 5px;
+        align-items: center;
+    }
+
+    .reviews::after {
+        height: 43px;
+        bottom: -32px;
+        background-size: contain;
+    }
+
+    .faq {
+        padding: 84px 0 60px;
+    }
+
+    footer .footer-content p {
+        max-width: 286px;
+
+        br {
+            display: none;
+        }
+    }
+}
+
+
+
+@media (max-width:576px) {
+    .treview-face {
+        max-width: 51px;
+        height: 51px;
+    }
+
+    .treview-rating {
+
+        svg {
+            width: 15px;
+            height: 15px;
+        }
+    }
+
+    .treview-content h4 {
+        margin-top: 6px;
+    }
+
+    .treview {
+        gap: 6px;
+    }
+
+    .wif-item {
+        margin-top: 23px;
+    }
+
+    .ingredients-picture img {
+        height: 160px;
+    }
+
+    .sOffers .sOffers-plans .sOffer-content .sOffer-price h5 {
+        font-size: 52px;
+    }
+
+    .sOffer-content .offer-btn {
+        font-size: 32px;
+    }
+
+    .sOffers-checkout .sO-sfCheckout h5,
+    .sOffers-checkout .sO-sfCheckout p {
+        font-size: 18px;
+    }
+
+    .sOffers-checkout img {
+        padding: 30px 0 15px;
+    }
+
+    .sOffers {
+        padding-bottom: 70px;
+    }
+
+    .bMoney-box {
+        padding-left: 21px;
+        padding-right: 21px;
+    }
+
+    .compTable {
+        padding-top: 39px;
+        padding-bottom: 17px;
+    }
+
+    .sOffer-bottle {
+
+        margin-top: -20px;
+    }
+
+    .sOffers-plans .sOffer-content .sOffer-price {
+        margin-top: -10px;
+    }
+
+    .compTable table thead tr th {
+
+        font-size: 18px;
+    }
+
+    .compTable table tbody td {
+        svg {
+            max-width: 20px;
+            max-height: 20px;
+        }
+    }
+
+    .compTable table tbody td {
+        font-size: 11px;
+    }
+
+    .compTable table tbody td:nth-child(1) {
+        font-size: 11px;
+    }
+
+    .compTable-note span {
+        font-size: 15px;
+    }
+
+    .compTable-note {
+        font-size: 15px;
+    }
+
+    .announcement p {
+        font-size: 15px;
+    }
+
+    .product {
+        padding-top: 7px;
+    }
+
+    .product-content .offer-btn {
+        font-size: 22px;
+    }
+
+    .product-content p {
+        font-size: 12px;
+    }
+
+    .rh-view {
+        .stars {
+            svg {
+                width: 101.581px;
+                height: 20.317px;
+            }
+        }
+    }
+
+    .treview-rating {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .treviews .treview+.treview {
+        margin-top: 6px;
+    }
+
+    .treviews .treview:last-of-type::after {
+        height: 45px;
+        bottom: -43px;
+        background-size: contain;
+    }
+
+    .treviews {
+        padding-bottom: 59px;
+    }
+
+    .wif-heading {
+        background-size: cover;
+    }
+
+    .wif-heading h2 {
+        font-size: 24px;
+        margin-bottom: 0;
+    }
+
+    .wif-title h3 {
+        span {
+            display: block;
+        }
+    }
+
+    .wif-title {
+        min-height: 73px;
+    }
+
+    .wif-title h3 {
+        font-size: 22px;
+    }
+
+    .wif-text {
+        padding: 0 14px;
+    }
+
+    .inewproduct {
+        margin: 24px 0 56px;
+    }
+
+    .inewproduct::before {
+        height: 46px;
+        background-size: contain;
+        position: absolute;
+        top: -4px;
+    }
+
+    .inewproduct-heading {
+        padding-top: 54px;
+    }
+
+    .inewproduct-content p br {
+        height: 10px;
+    }
+
+    .inewproduct::after {
+        height: 45px;
+        background-size: contain;
+        position: absolute;
+        bottom: -42px;
+    }
+
+    .inewproduct {
+        padding-bottom: 11px;
+    }
+
+    .ingredients-box {
+        margin-bottom: 31px;
+    }
+
+    .ingredients-wrap {
+        gap: 23px;
+    }
+
+}

@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+@import "views/bootstrap";
+
+// 1. Configuration and helpers
+@import 'abstracts/variables';
+
+// 2. Base stuff
+@import 'base/fonts',
+'base/base',
+'base/typography',
+'base/icons';
+
+// 3. Themes
+@import 'themes/default';
+
+// 4. Layouts
+@import 'layouts/header', 'layouts/footer';
+
+// 5. Components
+@import 'components/button';
+
+// 6. Page-specific styles
+@import 'views/home';
+
+// 7. Reponsive
+@import 'responsive';

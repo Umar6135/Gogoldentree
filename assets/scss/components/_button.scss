@@ -1,0 +1,27 @@
+.theme-btn {
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 140%;
+  color: #091113;
+  fill: #091113;
+  background: #51BA6B;
+  border-radius: 10px;
+  padding: 14px 21px;
+  display: inline-flex;
+  transition: all .3s;
+  align-items: center;
+  justify-content: space-between;
+  gap: 79px;
+  position: relative;
+  border: 0;
+  &:hover {
+    color: #091113;
+    background-color: #26e355;
+    box-shadow: 0 12px 28px rgb(0 0 0 / 12%);
+  }
+
+  &.dark-btn {
+    background-color: #000000;
+    color: #fff;
+  }
+}
